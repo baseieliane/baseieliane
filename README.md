@@ -30,4 +30,9 @@
 <div>
   <img src="https://media4.giphy.com/media/720g7C1jz13wI/giphy.gif?cid=ecf05e471gnpl1uuowe8bzzyvr5zdnr84oj17l4co8oahihl&rid=giphy.gif&ct=g" />
 </div>
+
 ![Snake animation](https://github.com/baseieliane/baseieliane/blob/output/github-contribution-grid-snake.svg)
+
+##
+# ✨ _Malfeito, feito_ ✨
+<img src="https://media0.giphy.com/media/OWoDhovPw5Cvi00ooi/giphy.gif?cid=ecf05e47nub74ccqckm5fzi8kmj6ojn7sw6btqh0om3w9o39&rid=giphy.gif&ct=g">
