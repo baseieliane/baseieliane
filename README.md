@@ -1,4 +1,4 @@
-# ✨ _Eu juro solenemente não fazer nada de bom_ ✨
+# ✨ ✨
 
 ## 👋 Oi pessoas! 
 ### 🧙‍♀️ Sou a Lia e sou um projeto de Dev em desenvolvimento
