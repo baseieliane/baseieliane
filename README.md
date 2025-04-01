@@ -1,6 +1,5 @@
-# ✨ ✨
+# ✨ Olá mundo! ✨
 
-## 👋 Oi pessoas! 
 ### 🧙‍♀️ Sou a Lia e sou um projeto de Dev em desenvolvimento
 #### 📚 Estou estudando Front-End no momento
 
