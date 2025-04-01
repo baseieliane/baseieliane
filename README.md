@@ -19,10 +19,10 @@
  
 ##
 <div>
-  <a href="mailto:elianebasei9705@gmail.com">
+  <a href="mailto:elianebasei9705@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targer="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/ElianeBasei" target="_blank">
+  <a href="https://www.linkedin.com/in/ElianeBasei" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
@@ -30,8 +30,5 @@
   <img src="https://media4.giphy.com/media/720g7C1jz13wI/giphy.gif?cid=ecf05e471gnpl1uuowe8bzzyvr5zdnr84oj17l4co8oahihl&rid=giphy.gif&ct=g" />
 </div>
 
-![Snake animation](https://github.com/baseieliane/baseieliane/blob/output/github-contribution-grid-snake.svg)
-
 ##
-# ✨ _Malfeito, feito_ ✨
 <img src="https://media0.giphy.com/media/OWoDhovPw5Cvi00ooi/giphy.gif?cid=ecf05e47nub74ccqckm5fzi8kmj6ojn7sw6btqh0om3w9o39&rid=giphy.gif&ct=g">
