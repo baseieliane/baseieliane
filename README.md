@@ -11,11 +11,11 @@
   <img height = "180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseieliane&layout=compact&theme=nightowl" />
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Lia-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Lia-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Lia-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+
+  ![Icone HTML](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000)
+  ![Icone CSS](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000)
+  ![Icone JS](https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000)
+  ![Icone Figma](https://img.icons8.com/?size=100&id=snB4bDeuO6gJ&format=png&color=000000)
  
 ##
 <div>
