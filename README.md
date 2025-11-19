@@ -16,6 +16,9 @@
   ![Icone CSS](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000)
   ![Icone JS](https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000)
   ![Icone Figma](https://img.icons8.com/?size=100&id=snB4bDeuO6gJ&format=png&color=000000)
+  ![Icone Typescript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
+  ![Icone React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)
+  
  
 ##
 <div>
