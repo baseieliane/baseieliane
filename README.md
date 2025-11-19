@@ -1,7 +1,7 @@
 # ✨ Olá mundo! ✨
 
 ### 🧙‍♀️ Sou a Lia e sou um projeto de Dev em desenvolvimento
-#### 📚 Estou estudando Front-End no momento
+#### 📚 Estou estudando Front-End no momento e tamém cursando engenharia de Controle e Automação
 
 ##
 <div>
